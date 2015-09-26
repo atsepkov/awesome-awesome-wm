@@ -16,14 +16,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Configuration
 [Valid Key Names](http://wiki.linuxquestions.org/wiki/List_of_keysyms) - useful for figuring out things like `PgUp` is actually called `Prior`
+[Menu Replacement](https://github.com/terceiro/awesome-freedesktop) - unlike default menu that looks very basic compared to other window manager, this menu replaces the original with a more `Start`-like menu with icons
 
 ## Theming
 [Awesome Copycats](https://github.com/copycat-killer/awesome-copycats) - a collection of well-polished themes with distinct look and feel
 [compton](https://github.com/chjj/compton) - high-performance compositor for those who like transparent windows
 
 ## Basic Widgets
-[Volume Icon](https://github.com/Maato/volumeicon) - stand-alone volume icon for lightweight WMs that fits well with nm-applet
-[Network](https://github.com/plotnikovanton/net_widgets) - a wireless + wired network widget that replaces nm-applet
+[Volume Icon](https://github.com/Maato/volumeicon) - stand-alone volume icon for lightweight WMs that fits well with nm-applet (C)
+[Network](https://github.com/plotnikovanton/net_widgets) - a wireless + wired network widget that replaces nm-applet (lua)
+[Battery](https://github.com/NuckChorris/assault/) - stand-alone battery widget (C)
+[Weather](https://github.com/ralluri/yawn) - retrieves localized weather information from Yahoo
 
 ## Productivity Widgets
-[Pomodoro Timer](https://github.com/optama/awmodoro) - hides clutter from the screen for 25 mins, replacing it with a progress bar
+[Basic Calendar](https://github.com/cdump/awesome-calendar) - simple but pretty
+[Calendar w/ TODO](https://github.com/alexander-yakushev/Orglendar) - (orglendar) a calendar + to-do list for awesome that reads entries from a .org file (I have a cronjob dumping my Google Calendar to that file) (lua)
+[Pomodoro Timer](https://github.com/optama/awmodoro) - hides clutter from the screen for 25 mins, replacing it with a progress bar (lua)
+
+## Wanted
+- widgets for cpu/memory monitoring, polished mail integration
+- audio/mpd integration that's not overly complex like AwsoMPD
+- more theme bundles to share (if you want to share your theme, I ask that you attach a screenshot to your repo)
