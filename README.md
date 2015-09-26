@@ -19,6 +19,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Theming
 [Awesome Copycats](https://github.com/copycat-killer/awesome-copycats) - a collection of well-polished themes with distinct look and feel
+[compton](https://github.com/chjj/compton) - high-performance compositor for those who like transparent windows
 
 ## Basic Widgets
 [Network](https://github.com/plotnikovanton/net_widgets) - a wireless + wired network widget that replaces nm-applet
