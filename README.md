@@ -26,3 +26,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Network](https://github.com/plotnikovanton/net_widgets) - a wireless + wired network widget that replaces nm-applet
 
 ## Productivity Widgets
+[Pomodoro Timer](https://github.com/optama/awmodoro) - hides clutter from the screen for 25 mins, replacing it with a progress bar
