@@ -13,6 +13,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [All Other Linuxes](http://pkgs.org/download/awesome) - other distros are up-to-date here
 
 ## Theming
+[Awesome Copycats](https://github.com/copycat-killer/awesome-copycats) - a collection of well-polished themes with distinct look and feel
+
 
 ## Basic Widgets
 
