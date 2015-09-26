@@ -22,6 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [compton](https://github.com/chjj/compton) - high-performance compositor for those who like transparent windows
 
 ## Basic Widgets
+[Volume Icon](https://github.com/Maato/volumeicon) - stand-alone volume icon for lightweight WMs that fits well with nm-applet
 [Network](https://github.com/plotnikovanton/net_widgets) - a wireless + wired network widget that replaces nm-applet
 
 ## Productivity Widgets
