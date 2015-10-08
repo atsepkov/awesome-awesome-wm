@@ -20,6 +20,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Theming
 - [Awesome Copycats](https://github.com/copycat-killer/awesome-copycats) - a collection of well-polished themes with distinct look and feel
+- [Another polished theme](https://github.com/actionless/awesome_config) - A well-done theme with screenshots
 - [compton](https://github.com/chjj/compton) - high-performance compositor for those who like transparent windows
 
 ## Basic Widgets
