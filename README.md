@@ -16,11 +16,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Configuration
 - [Valid Key Names](http://wiki.linuxquestions.org/wiki/List_of_keysyms) - useful for figuring out things like `PgUp` is actually called `Prior`
+- [Dynamic Tagging](https://github.com/pw4ever/awesome-wm-config) - those numbered tags in upper-left corner can now be renamed on the fly
 - [Menu Replacement](https://github.com/terceiro/awesome-freedesktop) - unlike default menu that looks very basic compared to other window manager, this menu replaces the original with a more `Start`-like menu with icons
 
 ## Theming
 - [Awesome Copycats](https://github.com/copycat-killer/awesome-copycats) - a collection of well-polished themes with distinct look and feel
-- [Another polished theme](https://github.com/actionless/awesome_config) - A well-done theme with screenshots
+- [Theme with fancy features](https://github.com/actionless/awesome_config) - A cool theme with screenshots
+- [Another polished theme](https://github.com/worron/awesome-config) - A theme showing that you don't have to settle for crappy ASCII art visuals
 - [compton](https://github.com/chjj/compton) - high-performance compositor for those who like transparent windows
 
 ## Basic Widgets
