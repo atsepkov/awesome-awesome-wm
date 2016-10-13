@@ -25,6 +25,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Another polished theme](https://github.com/worron/awesome-config) - A theme showing that you don't have to settle for crappy ASCII art visuals
 - [compton](https://github.com/chjj/compton) - high-performance compositor for those who like transparent windows
 
+## Widget Packs
+- [Awesome Zen](https://github.com/atsepkov/awesome-zen) - collection of widgets with consistent interface that hide when they're not relevant to declutter your desktop
+
 ## Basic Widgets
 - [Volume Icon](https://github.com/Maato/volumeicon) - stand-alone volume icon for lightweight WMs that fits well with nm-applet (C)
 - [Network](https://github.com/plotnikovanton/net_widgets) - a wireless + wired network widget that replaces nm-applet (lua)
@@ -38,5 +41,5 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Wanted
 - widgets for cpu/memory monitoring, polished mail integration
-- audio/mpd integration that's not overly complex like AwsoMPD
+- audio/mpd integration that's not overly complex like AwsoMPD (which is somewhat bloated and buggy)
 - more theme bundles to share (if you want to share your theme, I ask that you attach a screenshot to your repo)
