@@ -4,6 +4,8 @@
 
 This guide was created because out-of-the-box Awesome WM experience is miserable, yet the WM quickly grows on those courageous enough to tinker with it and weather version-incompatibility issues. This guide was created for those who need a head start with their awesome config.
 
+One problem with Awesome WM is that the maintainers keep breaking backwards compatibility. Many of the below libraries have been upadted to Awesome 4.2, ones that haven't will not work with latest version of Awesome. A library written for Awesome 3.5 will not work with Awesome 4.0 and one written for 3.4 will not work with either so make sure the versions between your modules match. It's a shame that maintainers don't understand the benefit of backwards-compatibility, otherwise the community would be a lot larger and more unified.
+
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Contents
@@ -34,6 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Theme with fancy features](https://github.com/actionless/awesome_config) - A beautiful theme with screenshots.
 - [Another polished theme](https://github.com/worron/awesome-config) - A theme showing that you don't have to settle for crappy ASCII art visuals.
 - [compton](https://github.com/chjj/compton) - High-performance compositor for those who like transparent windows.
+- [radical](https://github.com/Elv13/radical) - Fancy generator for custom menus
 
 ## Widget Packs
 - [Awesome Zen](https://github.com/atsepkov/awesome-zen) - Collection of widgets with consistent interface that hide when they're not relevant to declutter your desktop.
