@@ -39,7 +39,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [radical](https://github.com/Elv13/radical) - Fancy generator for custom menus
 
 ## Widget Packs
-- [Awesome Zen](https://github.com/atsepkov/awesome-zen) - Collection of widgets with consistent interface that hide when they're not relevant to declutter your desktop.
+- [Awesome Zen](https://github.com/atsepkov/awesome-zen) - Collection of widgets with consistent interface that hide when they're not relevant to declutter your desktop. Also includes utilities for managing windows more effectivelly.
+- [Awesome WM Widgets](https://github.com/streetturtle/awesome-wm-widgets) - Good options for battery, music, CPU/RAM, and Volume widgets
+- [Lain](https://github.com/lcpz/lain) - Another set of polished Widgets for Awesome
 
 ## Basic Widgets
 - [Volume Icon](https://github.com/Maato/volumeicon) - Stand-alone volume icon for lightweight WMs that fits well with nm-applet (C).
