@@ -4,7 +4,7 @@
 
 This guide was created because out-of-the-box Awesome WM experience is miserable, yet the WM quickly grows on those courageous enough to tinker with it and weather version-incompatibility issues. This guide was created for those who need a head start with their awesome config.
 
-One problem with Awesome WM is that the maintainers keep breaking backwards compatibility. Many of the below libraries have been upadted to Awesome 4.2, ones that haven't will not work with latest version of Awesome. A library written for Awesome 3.5 will not work with Awesome 4.0 and one written for 3.4 will not work with either so make sure the versions between your modules match. It's a shame that maintainers don't understand the benefit of backwards-compatibility, otherwise the community would be a lot larger and more unified.
+One problem with Awesome WM is that newer versions of Awesome break a lot of backwards compatibility. Many of the below libraries have been updated to Awesome 4.2, ones that haven't will not work with latest version of Awesome. A library written for Awesome 3.5 will not work with Awesome 4.0 and one written for 3.4 will not work with either so make sure the versions between your modules match. This in itself creates a lot of frustration for users and a segmentation of Awesome user base.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
