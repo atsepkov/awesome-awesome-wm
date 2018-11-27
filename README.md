@@ -29,7 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Configuration
 - [Valid Key Names](http://wiki.linuxquestions.org/wiki/List_of_keysyms) - Useful for figuring out things like `PgUp` is actually called `Prior` so you can map your shortcuts.
 - [Dynamic Tagging](https://github.com/pw4ever/awesome-wm-config) - Those numbered tags in upper-left corner can now be renamed on the fly.
-- [Menu Replacement](https://github.com/terceiro/awesome-freedesktop) - Unlike default menu that looks very basic compared to other window manager, this menu replaces the original with a more `Start`-like menu with icons.
+- [Menu Replacement](https://github.com/lcpz/awesome-freedesktop) - Unlike default menu that looks very basic compared to other window managers, this menu replaces the original with a more `Start`-like menu with icons.
 
 ## Theming
 - [Awesome Copycats](https://github.com/copycat-killer/awesome-copycats) - A collection of well-polished themes with distinct look and feel.
@@ -53,6 +53,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Basic Calendar](https://github.com/cdump/awesome-calendar) - Simple, but pretty calendar.
 - [Calendar w/ TODO](https://github.com/alexander-yakushev/Orglendar) - (orglendar) A calendar + to-do list for awesome that reads entries from a .org file (I have a cronjob dumping my Google Calendar to that file) (lua).
 - [Pomodoro Timer](https://github.com/optama/awmodoro) - Hides clutter from the screen for 25 mins, replacing it with a progress bar (lua).
+
+## Other
+- [TMUX integration to manage terminal sessions](https://github.com/wheatdog/awesome-termgrp)
 
 ## Wanted
 - Widgets for cpu monitoring, polished mail integration.
