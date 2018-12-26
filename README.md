@@ -9,14 +9,14 @@ One problem with Awesome WM is that newer versions of Awesome break a lot of bac
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Contents
-- [Official Resources](official-resources)
-- [Pre-Built Versions](pre-built-versions)
-- [Configuration](configuration)
-- [Theming](theming)
-- [Widget Packs](widget-packs)
-- [Basic Widgets](basic-widgets)
-- [Productivity Widgets](productivity-widgets)
-- [Wanted](wanted)
+- [Official Resources](#official-resources)
+- [Pre-Built Versions](#pre-built-versions)
+- [Configuration](#configuration)
+- [Theming](#theming)
+- [Widget Packs](#widget-packs)
+- [Basic Widgets](#basic-widgets)
+- [Productivity Widgets](#productivity-widgets)
+- [Wanted](#wanted)
 
 ## Official Resources
 - [Main repository](https://github.com/awesomeWM/awesome) - Latest development build.
