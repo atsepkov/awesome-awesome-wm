@@ -17,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Basic Widgets](#basic-widgets)
 - [Productivity Widgets](#productivity-widgets)
 - [Wanted](#wanted)
+
 ## Official Resources
 - [Main repository](https://github.com/awesomeWM/awesome) - Latest development build.
 - [Wiki](http://awesome.naquadah.org/wiki/Main_Page) - While not terse, a very useful resource.
