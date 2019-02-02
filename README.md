@@ -59,6 +59,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Pomodoro Timer](https://github.com/optama/awmodoro) - Hides clutter from the screen for 25 mins, replacing it with a progress bar (Lua).
 - [awesome-scratch](https://github.com/proteansec/awesome-scratch) - A stashing area for window to declutter the workspace and easily recall programs, doesn't seem to be actively maintained
 
+## Multi-Monitor and Docking Stations
+- [screenful](https://github.com/dluksza/screenful) - An extension that leverages udev to detect monitor connection/disconnection
+- [autorandr](https://github.com/wertarbyte/autorandr) - Automatically select xrandr display configuration based on connected devices
+
 ## Other
 - [tmux integration to manage terminal sessions](https://github.com/wheatdog/awesome-termgrp)
 - [treesome](https://github.com/RobSis/treesome) - no longer maintained, a utility for splitting workspace in a manner similar to TMUX
