@@ -6,6 +6,8 @@ This guide was created because an out-of-the-box Awesome WM experience is misera
 
 One problem with Awesome WM is that newer versions of Awesome break a lot of backwards compatibility. Many of the below libraries have been updated to Awesome 4.2, ones that haven't will not work with the latest version of Awesome. A library written for Awesome 3.5 will not work with Awesome 4.0 and one written for 3.4 will not work with either so make sure the versions between your modules match. This in itself creates a lot of frustration for users and a segmentation of Awesome user base.
 
+This repository tries to keep up to date, most of the tools listed here are compatible with Awesome 4.0+, some 3.4-3.5 tools are listed if they're notable due to their use case or compatible with current version of Awesome.
+
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Contents
@@ -35,6 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Theme with fancy features](https://github.com/actionless/awesome_config) - A beautiful theme with screenshots.
 - [Another polished theme](https://github.com/worron/awesome-config) - A theme showing that you don't have to settle for crappy ASCII art visuals.
 - [awesome-ban](https://github.com/4ban/awesome-ban) - A theme inspired by Copycats themes
+- [awesome-pro](https://github.com/4ban/awesome-pro) - Pro theme updated to support Awesome 4.0
 - [compton](https://github.com/chjj/compton) - High-performance compositor for those who like transparent windows.
 - [radical](https://github.com/Elv13/radical) - Fancy generator for custom menus
 
