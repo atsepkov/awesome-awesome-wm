@@ -38,6 +38,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Another polished theme](https://github.com/worron/awesome-config) - A theme showing that you don't have to settle for crappy ASCII art visuals.
 - [awesome-ban](https://github.com/4ban/awesome-ban) - A theme inspired by Copycats themes
 - [awesome-pro](https://github.com/4ban/awesome-pro) - Pro theme updated to support Awesome 4.0
+- [Minimalist theme](https://github.com/Relz/awesome-wm-theme) - Minimalist theme with high level of customization.
 - [compton](https://github.com/chjj/compton) - High-performance compositor for those who like transparent windows.
 - [radical](https://github.com/Elv13/radical) - Fancy generator for custom menus
 
