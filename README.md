@@ -67,6 +67,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Other
 - [tmux integration to manage terminal sessions](https://github.com/wheatdog/awesome-termgrp)
 - [treesome](https://github.com/RobSis/treesome) - no longer maintained, a utility for splitting workspace in a manner similar to TMUX
+- [tcprompt](https://gitlab.com/matsievskiysv/tcprompt) - connect to the Awesome Lua session via TCP
 
 ## Wanted
 - Widgets for CPU monitoring, polished mail integration.
