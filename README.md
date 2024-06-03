@@ -31,6 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Valid Key Names](http://wiki.linuxquestions.org/wiki/List_of_keysyms) - Useful for figuring out things like `PgUp` is actually called `Prior` so you can map your shortcuts.
 - [Dynamic Tagging](https://github.com/pw4ever/awesome-wm-config) - Those numbered tags in upper-left corner can now be renamed on the fly.
 - [Menu Replacement](https://github.com/lcpz/awesome-freedesktop) - Unlike default menu that looks very basic compared to other window managers, this menu replaces the original with a more `Start`-like menu with icons.
+- [Hydra](https://github.com/TommyX12/awesome-wm-hydra) - Multi-key-sequence framework for AwesomeWM with key hints display.
 
 ## Theming
 - [Awesome Copycats](https://github.com/copycat-killer/awesome-copycats) - A collection of well-polished themes with distinct look and feel.
