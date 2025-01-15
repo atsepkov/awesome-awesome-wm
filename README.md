@@ -67,6 +67,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Other
 - [tmux integration to manage terminal sessions](https://github.com/wheatdog/awesome-termgrp)
 - [treesome](https://github.com/RobSis/treesome) - no longer maintained, a utility for splitting workspace in a manner similar to TMUX
+- [Cursor Grid Teleport](https://github.com/lpanebr/awesomewm-cursor-teleport) - A blazingly fast keyboard cursor positioning plugin that uses a fixed and predictable grid making it easy to develop muscle memory.
 
 ## Wanted
 - Widgets for CPU monitoring, polished mail integration.
