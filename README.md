@@ -18,6 +18,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Widget Packs](#widget-packs)
 - [Basic Widgets](#basic-widgets)
 - [Productivity Widgets](#productivity-widgets)
+- [Multi-Monitor and Docking Stations](#multi-monitor-and-docking-stations)
+- [Other](#other)
 - [Wanted](#wanted)
 
 ## Official Resources
@@ -36,17 +38,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Awesome Copycats](https://github.com/copycat-killer/awesome-copycats) - A collection of well-polished themes with distinct look and feel.
 - [Theme with fancy features](https://github.com/actionless/awesome_config) - A beautiful theme with screenshots.
 - [Another polished theme](https://github.com/worron/awesome-config) - A theme showing that you don't have to settle for crappy ASCII art visuals.
-- [awesome-ban](https://github.com/4ban/awesome-ban) - A theme inspired by Copycats themes
-- [awesome-pro](https://github.com/4ban/awesome-pro) - Pro theme updated to support Awesome 4.0
+- [awesome-ban](https://github.com/4ban/awesome-ban) - A theme inspired by Copycats themes.
+- [awesome-pro](https://github.com/4ban/awesome-pro) - Pro theme updated to support Awesome 4.0.
 - [Minimalist theme](https://github.com/Relz/awesome-wm-theme) - Minimalist theme with high level of customization.
 - [compton](https://github.com/chjj/compton) - High-performance compositor for those who like transparent windows.
-- [radical](https://github.com/Elv13/radical) - Fancy generator for custom menus
+- [radical](https://github.com/Elv13/radical) - Fancy generator for custom menus.
 
 ## Widget Packs
 - [Awesome Zen](https://github.com/atsepkov/awesome-zen) - Collection of widgets with a consistent interface that hides when they're not relevant to declutter your desktop. Also includes utilities for managing windows more effectively.
-- [Awesome WM Widgets](https://github.com/streetturtle/awesome-wm-widgets) - Good options for battery, music, CPU/RAM, and Volume widgets
-- [Lain](https://github.com/lcpz/lain) - Another set of polished Widgets for Awesome
-- [Vicious](https://github.com/vicious-widgets/vicious) - Contains modules that gather data about your system
+- [Awesome WM Widgets](https://github.com/streetturtle/awesome-wm-widgets) - Good options for battery, music, CPU/RAM, and Volume widgets.
+- [Lain](https://github.com/lcpz/lain) - Another set of polished Widgets for Awesome.
+- [Vicious](https://github.com/vicious-widgets/vicious) - Contains modules that gather data about your system.
 
 ## Basic Widgets
 - [Volume Icon](https://github.com/Maato/volumeicon) - Stand-alone volume icon for lightweight WMs that fits well with nm-applet (C).
@@ -58,15 +60,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Basic Calendar](https://github.com/cdump/awesome-calendar) - Simple, but pretty calendar.
 - [Calendar w/ TODO](https://github.com/alexander-yakushev/Orglendar) - (orglendar) A calendar + to-do list for awesome that reads entries from a .org file (I have a cronjob dumping my Google Calendar to that file) (Lua).
 - [Pomodoro Timer](https://github.com/optama/awmodoro) - Hides clutter from the screen for 25 mins, replacing it with a progress bar (Lua).
-- [awesome-scratch](https://github.com/proteansec/awesome-scratch) - A stashing area for window to declutter the workspace and easily recall programs, doesn't seem to be actively maintained
+- [awesome-scratch](https://github.com/proteansec/awesome-scratch) - A stashing area for window to declutter the workspace and easily recall programs, doesn't seem to be actively maintained.
 
 ## Multi-Monitor and Docking Stations
-- [screenful](https://github.com/dluksza/screenful) - An extension that leverages udev to detect monitor connection/disconnection
-- [autorandr](https://github.com/wertarbyte/autorandr) - Automatically select xrandr display configuration based on connected devices
+- [screenful](https://github.com/dluksza/screenful) - An extension that leverages udev to detect monitor connection/disconnection.
+- [autorandr](https://github.com/wertarbyte/autorandr) - Automatically select xrandr display configuration based on connected devices.
 
 ## Other
-- [tmux integration to manage terminal sessions](https://github.com/wheatdog/awesome-termgrp)
-- [treesome](https://github.com/RobSis/treesome) - no longer maintained, a utility for splitting workspace in a manner similar to TMUX
+- [awesome-termgrp](https://github.com/wheatdog/awesome-termgrp) - tmux integration to manage terminal sessions.
+- [treesome](https://github.com/RobSis/treesome) - A utility for splitting workspace in a manner similar to TMUX, no longer maintained.
 
 ## Wanted
 - Widgets for CPU monitoring, polished mail integration.
